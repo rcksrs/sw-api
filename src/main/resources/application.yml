@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://swapiuser:swapipass@cluster0.fd5ze.mongodb.net/swdb?retryWrites=true&w=majority
